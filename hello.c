@@ -12,7 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Hee-Chan Han\n");
-  printf("Mechanical Engineering\n", );
+  printf("Mechanical Engineering\n");
   printf("Jialong Zhang\n");
   printf("Computer Science");
 
